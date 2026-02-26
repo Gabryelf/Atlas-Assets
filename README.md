@@ -124,14 +124,11 @@ graph LR
 
 **Результат** прямо в README (не верь, а проверь!):
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
-/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Маг"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Маг"/>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
-/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Sniper"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Sniper"/>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
-/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Warrior"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Warrior"/>
 
 ---
 
