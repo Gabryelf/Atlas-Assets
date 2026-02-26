@@ -50,12 +50,12 @@
 
 | | **Вселенная** | **Описание** | **Иконок** | **Погнали** |
 |:---:|:---|:---|:---:|:---:|
-| 🌀 | **Фэнтези** | Маги, драконы, эльфы и прочая эпика | 30+ | [➡️ Телепорт](./fantasy/README.md) |
-| 🤖 | **Киберпанк** | Неон, хакеры, роботы и будущее | 30+ | [➡️ Телепорт](./cyberpunk/README.md) |
-| 🎲 | **Ретро-игры** | Пиксель-арт, 8-бит, ностальжи | 30+ | [➡️ Телепорт](./retro/README.md) |
-| 🍣 | **Фуд-арт** | Еда, рестораны, доставка | 24+ | [➡️ Телепорт](./food/README.md) |
-| 🐱 | **Милые зверята** | Котики, песики и всё такое | 31+ | [➡️ Телепорт](./animals/README.md) |
-| 🌞 | **Лето и пляж** | Отпуск, серфинг, пальмы | 19+ | [➡️ Телепорт](./summer/README.md) |
+| 🌀 | **Фэнтези** | Маги, драконы, эльфы и прочая эпика | 30+ | [➡️ Телепорт](.images/fantasy/README.md) |
+| 🤖 | **Киберпанк** | Неон, хакеры, роботы и будущее | 30+ | [➡️ Телепорт](.images/cyberpunk/README.md) |
+| 🎲 | **Ретро-игры** | Пиксель-арт, 8-бит, ностальжи | 30+ | [➡️ Телепорт](.images/retro/README.md) |
+| 🍣 | **Фуд-арт** | Еда, рестораны, доставка | 24+ | [➡️ Телепорт](.images/food/README.md) |
+| 🐱 | **Милые зверята** | Котики, песики и всё такое | 31+ | [➡️ Телепорт](.images/animals/README.md) |
+| 🌞 | **Лето и пляж** | Отпуск, серфинг, пальмы | 19+ | [➡️ Телепорт](.images/summer/README.md) |
 
 </div>
 
@@ -109,7 +109,7 @@ graph LR
 <!-- 2. Берёшь raw-ссылку на elementalist.png -->
 <!-- 3. Вставляешь в код -->
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/fantasy/heroes/elementalist.png" 
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/images/fantasy/elementalist.png" 
      alt="Маг" 
      width="64"
      style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;">
@@ -124,11 +124,14 @@ graph LR
 
 **Результат** прямо в README (не верь, а проверь!):
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/heroes/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Маг"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
+/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Маг"/>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/heroes/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Sniper"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
+/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Sniper"/>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/heroes/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Warrior"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy
+/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Warrior"/>
 
 ---
 
@@ -193,21 +196,6 @@ graph LR
 
 ---
 
-## 🌈 **Челлендж для смелых**
-
-Сделай маш-ап из разных вселенных и отметь нас в соцсетях с хэштегом **#AtlasAssets**! Лучшие работы попадут в этот README 🏆
-
-Пример крутого микса:
-```html
-<div class="mashup">
-  <img src="ссылка/на/мага.png" class="float">  <!-- Фэнтези -->
-  <img src="ссылка/на/робота.png" class="spin"> <!-- Киберпанк -->
-  <img src="ссылка/на/пиццу.png" class="sparkle"> <!-- Фуд-арт -->
-</div>
-```
-
----
-
 ## 🎁 **Бонус-трек: Web Component**
 
 А вот так можно использовать наши иконки с помощью кастомного тега:
@@ -237,7 +225,7 @@ class AtlasIcon extends HTMLElement {
         const border = this.getAttribute('border') || 'none';
         
         this.innerHTML = `
-            <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/${pack}/heroes/${name}.png"
+            <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/${pack}/fantasy/${name}.png"
                  style="width: ${size}px; height: ${size}px; border-radius: 50%; border: 3px solid ${border}; animation: ${animation} 3s infinite;"
                  alt="${name}"
                  class="atlas-icon ${animation}">
@@ -262,23 +250,6 @@ customElements.define('atlas-icon', AtlasIcon);
 
 ---
 
-## 🎓 **Roadmap (Что дальше?)**
-
-- [x] **Фэнтези-набор** (уже готов)
-- [ ] **Киберпанк-набор** (в разработке)
-- [ ] **Аниме-набор** (ищем художников)
-- [ ] **CDN для быстрых загрузок**
-- [ ] **Figma-плагин** для дизайнеров
-- [ ] **NPM-пакет** для разработчиков
-
----
-
-## 📬 **Контакты**
-
-**Есть идеи или хочешь предложить тему? Пиши в Issue!**
-
----
-
 <div align="center">
   
 ### *"Пусть твой код будет чище, чем эльфийская магия, а дедлайны — побеждены, как драконы!"* 🐉
@@ -291,8 +262,8 @@ customElements.define('atlas-icon', AtlasIcon);
 **⭐ Не забудь поставить звезду, если зашло! ⭐**
 
 <br>
-
-[⬆ Наверх](#-atlas-assets-) | [Хочешь поделиться своим мнением?](https://github.com/Gabryelf/Atlas-Assets/issues)
+**Есть идеи или хочешь предложить тему? Пиши в Issue!**
+ [Хочешь поделиться своим мнением?](https://github.com/Gabryelf/Atlas-Assets/issues)
 
 <br>
 
