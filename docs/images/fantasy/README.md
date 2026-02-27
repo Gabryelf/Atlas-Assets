@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/logo_fantasy.gif" width="70%" alt="logo" style="border-radius: 20px;"/>
+</div>
 
 # Библиотека фэнтези-иконок для фронтенда 🗡️
 
