@@ -34,10 +34,10 @@
 
 **Atlas Assets** — это **коллекция крутейших тематических наборов** иконок, стикеров и спрайтов для твоих фронтенд-проектов. Каждая папка — целый мир со своей атмосферой.
 
-<div align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="50%" alt="Portal animation" style="border-radius: 20px;"/>
-</div>
 
+ <a href="docs/images/fantasy/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/logo_fantasy.gif" width="200" alt="Фэнтези"></a> <a href="docs/images/clash_royale/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/logo_cr.gif" width="200" alt="Clash Royal"></a> <a href="docs/images/pokemon/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/pokemon-logo-2.gif" width="200" alt="Покемоны"></a>
+<a href="docs/images/cyberpunk/README.md"><img src="docs/images/screens/gif/cyberpunk.gif" width="200" alt="Киберпанк"></a> <a href="docs/images/retro/README.md"><img src="docs/images/screens/gif/retro.gif" width="200" alt="Ретро"></a> <a href="docs/images/food/README.md"><img src="docs/images/screens/gif/food.gif" width="200" alt="Фуд-арт"></a>
+<a href="docs/images/animals/README.md"><img src="docs/images/screens/gif/animals.gif" width="200" alt="Зверята"></a> <a href="docs/images/summer/README.md"><img src="docs/images/screens/gif/summer.gif" width="200" alt="Лето"></a> <a href="https://github.com/Gabryelf/Atlas-Assets/issues/new"><img src="docs/images/screens/gif/new.gif" width="200" alt="Предложить тему"></a>
 ---
 
 ## 📦 **Что внутри?**
@@ -126,11 +126,27 @@ graph LR
 
 **Результат** прямо в README (не верь, а проверь!):
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Маг"/>
+<table>
+  <tr>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/elementalist.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Mage"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Sniper"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Warrior"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/archer.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Archer"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/barbarian_m.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Barbarian"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/necromancer.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Necromancer"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/knight.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Knight"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/barbarian_w.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Barbarian"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/snow_hunter.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Hunter"/></td>
+    <td><img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/dwarf.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite;" alt="Dwarf"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/sniper.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Sniper"/>
-
-<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/warrior.png" width="64" style="border-radius: 50%; border: 3px solid gold; animation: float 3s infinite; display: inline-block;" alt="Warrior"/>
 
 ---
 
