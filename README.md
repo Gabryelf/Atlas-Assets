@@ -36,9 +36,10 @@
 
 
  <a href="docs/images/fantasy/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/logo_fantasy.gif" width="200" alt="Фэнтези"></a> <a href="docs/images/clash_royale/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/logo_cr.gif" width="200" alt="Clash Royal"></a> <a href="docs/images/pokemon/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/pokemon-logo-2.gif" width="200" alt="Покемоны"></a>
-<a href="docs/images/cyberpunk/README.md"><img src="docs/images/screens/gif/cyberpunk.gif" width="200" alt="Киберпанк"></a> <a href="docs/images/retro/README.md"><img src="docs/images/screens/gif/retro.gif" width="200" alt="Ретро"></a> <a href="docs/images/food/README.md"><img src="docs/images/screens/gif/food.gif" width="200" alt="Фуд-арт"></a>
+<a href="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/animations/gifs-line/README.md"><img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/gifs-line-logo.gif" width="200" alt="Киберпанк"></a> <a href="docs/images/retro/README.md"><img src="docs/images/screens/gif/retro.gif" width="200" alt="Ретро"></a> <a href="docs/images/food/README.md"><img src="docs/images/screens/gif/food.gif" width="200" alt="Фуд-арт"></a>
 <a href="docs/images/animals/README.md"><img src="docs/images/screens/gif/animals.gif" width="200" alt="Зверята"></a> <a href="docs/images/summer/README.md"><img src="docs/images/screens/gif/summer.gif" width="200" alt="Лето"></a> <a href="https://github.com/Gabryelf/Atlas-Assets/issues/new"><img src="docs/images/screens/gif/new.gif" width="200" alt="Предложить тему"></a>
 ---
+
 
 ## 📦 **Что внутри?**
 
