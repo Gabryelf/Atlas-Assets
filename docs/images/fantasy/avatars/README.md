@@ -21,10 +21,10 @@
 
 | **Иконка** | **Эмодзи** | **Файл** | **Путь** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/warrior.png" width="128"> | `🛡️` | `warrior.png` |  `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/warrior.png` |
-| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/archer.png" width="128"> | `🏹` | `sniper.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/warrior.png` |
-| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/barbarian.png" width="128"> | `⚔️` | `barbarian_m.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/barbarian_m.png` |
-| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/water_mage.png" width="128"> | `🔮` | `elementalist.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/elementalist.png` |
+| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/warrior.png" width="128"> | `🛡️` | `warrior.png` |  `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/avatars/warrior.png` |
+| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/archer.png" width="128"> | `🏹` | `archer.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/avatars/archer.png` |
+| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/barbarian.png" width="128"> | `⚔️` | `barbarian_m.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/avatars/barbarian.png` |
+| <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/docs/images/fantasy/avatars/water_mage.png" width="128"> | `🔮` | `elementalist.png` | `https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/fantasy/avatars/water_mage.png` |
 
 ---
 
