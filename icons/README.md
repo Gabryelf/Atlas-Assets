@@ -2,7 +2,7 @@
 <img src="https://github.com/Gabryelf/Atlas-Assets/blob/main/docs/images/logo/icons-logo.gif" width="70%" alt="logo" style="border-radius: 20px;"/>
 </div>
 
-# Библиотека анимационных разделительных линий
+# Библиотека svg и png иконок
 
 > *"Добавляй свои иконки на сайт вместо эмоджи!"* ✨
 
