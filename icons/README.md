@@ -39,16 +39,16 @@
 
 ### **Быстрые ссылки**
 ```html
- <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/about.svg" alt="corall-neon-flash">
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/about.svg" alt="about">
 ```
 ```html
- <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/advance.svg" alt="gold-neon-flash">
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/advance.svg" alt="advance">
 ```
 ```html
- <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/calendar.svg" alt="pink-y-line">
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/calendar.svg" alt="calendar">
 ```
 ```html
- <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/like.svg" alt="bounce-white">
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/svg/like.svg" alt="like">
 ```
 
 ---
