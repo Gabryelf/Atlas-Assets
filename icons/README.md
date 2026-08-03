@@ -5,9 +5,11 @@
 # Библиотека svg и png иконок
 
 > *"Добавляй свои иконки на сайт вместо эмоджи!"* ✨
+> 
+> *"Новое - Иконки Технологий и Языков Программирования!"* 🌟
 
-[![Версия](https://img.shields.io/badge/версия-0.0.1-purple?style=for-the-badge&logo=github)](https://github.com/)
-[![Иконок](https://img.shields.io/badge/иконок-100%2B-orange?style=for-the-badge&logo=files)](#-спрайты-png)
+[![Версия](https://img.shields.io/badge/версия-0.0.2-purple?style=for-the-badge&logo=github)](https://github.com/)
+[![Иконок](https://img.shields.io/badge/иконок-600%2B-orange?style=for-the-badge&logo=files)](#-спрайты-png)
 [![Формат](https://img.shields.io/badge/формат-PNG%20%7C%20Emoji-blue?style=for-the-badge)](#)
 
 ---
@@ -52,6 +54,47 @@
 ```
 
 ---
+
+### **Превью технологичных иконок:**
+
+<div align="center">
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Blender-Light.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Bootstrap.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/C.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/CPP.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/CS.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Git.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Github-Dark.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/HTML.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Markdown-Dark.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/PyCharm-Dark.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/MongoDB.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+<img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/FastAPI.svg" width="200px" alt="logo" style="border-radius: 20px;"/>
+</div>
+
+---
+
+## 🎯 **Примеры готовых компонентов иконок технологий**
+
+### **Быстрые ссылки**
+```html
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Blender-Light.svg" alt="Blender">
+```
+```html
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/Bootstrap.svg" alt="Bootstrap">
+```
+```html
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/C.svg" alt="C">
+```
+```html
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/CPP.svg" alt="C++">
+```
+```html
+ <img src="https://github.com/Gabryelf/Atlas-Assets/raw/main/icons/typing-svg/CS.svg" alt="C#">
+```
+
+---
+
 
 ## 📝 **Лицензия**
 Свободно используй в своих проектах! 🎉
